@@ -7,6 +7,7 @@ dependencies:
   - cmake
   - vim
   - openssh 
+  - ncurses
   - singularity
   - pip:
       - jupyterlab-deck
